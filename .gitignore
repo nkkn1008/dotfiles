@@ -3,3 +3,5 @@
 .atom/dev
 .npm
 .node-gyp
+.atom/.apm
+.atom/.apm/.apmrc
