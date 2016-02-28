@@ -1,0 +1,20 @@
+﻿2016/02/28 15:38:46 [NORMAL] - Method "Main" at line 103 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.Host\Program.cs
+
+    PowerShell Editor Services Host v0.4.2.264 starting (pid 7700)...
+
+2016/02/28 15:38:46 [NORMAL] - Method "Main" at line 112 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.Host\Program.cs
+
+    PowerShell Editor Services Host started!
+
+2016/02/28 15:38:55 [NORMAL] - Method "Shutdown" at line 88 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.Protocol\Server\LanguageServer.cs
+
+    Language service is shutting down...
+
+2016/02/28 15:38:55 [NORMAL] - Method "Shutdown" at line 88 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.Protocol\Server\LanguageServer.cs
+
+    Language service is shutting down...
+
+2016/02/28 15:38:55 [NORMAL] - Method "Main" at line 117 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.Host\Program.cs
+
+    PowerShell Editor Services Host exited normally.
+
