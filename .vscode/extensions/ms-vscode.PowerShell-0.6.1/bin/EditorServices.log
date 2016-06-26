@@ -1,0 +1,18 @@
+﻿2016/06/26 18:05:05 [NORMAL] - Method "Main" at line 145 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.Host\Program.cs
+
+    PowerShell Editor Services Host v0.6.1.356 starting (pid 8512)...
+    
+      Host application details:
+    
+        Name: Visual Studio Code Host
+        ProfileId: Microsoft.VSCode
+        Version: 0.6.1
+
+2016/06/26 18:05:11 [NORMAL] - Method "Initialize" at line 186 of C:\projects\powershelleditorservices\src\PowerShellEditorServices\Session\PowerShellContext.cs
+
+    PowerShell runtime version: 5.0.10240.16384
+
+2016/06/26 18:05:12 [NORMAL] - Method "Main" at line 165 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.Host\Program.cs
+
+    PowerShell Editor Services Host started!
+
