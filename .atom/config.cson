@@ -5,5 +5,14 @@
     invisibles: {}
   "exception-reporting":
     userId: "9cbb9ffd-17d4-611c-6896-0f2b634029ac"
+  "markdown-mindmap":
+    breakOnSingleNewline: true
+  "markdown-writer": {}
   welcome:
     showOnStartup: false
+"exception-reporting":
+  userId: "9f9aec44-c29a-0c42-e80f-6bf3887eb916"
+metrics:
+  userId: "1ecb1c93d1a035d390366c4beba3a866d076cfb6"
+welcome:
+  showOnStartup: false
